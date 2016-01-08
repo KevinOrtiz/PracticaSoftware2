@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calculadora.Icalservicetest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-01-05T15:46:18" hostname="Kevins-MacBook-Pro.local" time="0.596">
+  <properties/>
+  <testcase name="test" classname="calculadora.Icalservicetest" time="0.596"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

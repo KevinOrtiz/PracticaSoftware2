@@ -1,0 +1,7 @@
+-classpath '/Users/kevinandresortizmerchan/Documents/Software2/CalculadoraGradle/calculadora/build/classes/main:/Users/kevinandresortizmerchan/Documents/Software2/CalculadoraGradle/calculadora/build/resources/main:/Users/kevinandresortizmerchan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar'
+-d '/Users/kevinandresortizmerchan/Documents/Software2/CalculadoraGradle/calculadora/build/docs/javadoc'
+-doctitle 'calculadora API'
+-quiet 
+-windowtitle 'calculadora API'
+'/Users/kevinandresortizmerchan/Documents/Software2/CalculadoraGradle/calculadora/src/main/java/calculadora/iCalculator.java'
+'/Users/kevinandresortizmerchan/Documents/Software2/CalculadoraGradle/calculadora/src/main/java/calculadora/icalservice.java'
